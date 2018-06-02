@@ -1,0 +1,41 @@
+body{
+    color: white;
+ }
+ 
+ #location{
+   font-family: "Playfair Display", Times, Serif;
+   background-color: rgba(100,200,100,0.5);
+   padding: 20px;
+ }
+ 
+ #info-box{
+   display: block;
+   margin: auto;
+   max-width: 500px;
+   padding: 20px;
+   background-color: rgba(100,100,100,0.75);
+    font-family: "Eczar", Times, serif;
+   font-size: 18px;
+ }
+ 
+ #picture{
+   padding: 20px;
+ }
+ 
+ #convert{
+    background-color: rgba(76,175,80, .7);
+     border: none; 
+     display:block;
+     color: white;
+     margin: auto;
+     width: 250px;
+     padding: 25px 40px;
+     text-align: center;
+     text-decoration: none;
+     font-size: 16px;
+ }
+ 
+ #convert:hover{
+       background: white;
+     color: rgb(76,175,80);
+ }
